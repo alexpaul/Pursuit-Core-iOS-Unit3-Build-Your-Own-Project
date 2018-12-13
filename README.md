@@ -13,6 +13,8 @@ Your first chance to build your own iOS project
 
 - Project should make at least one GET request to your choosen API **required** 
 - App should have at least 2 view controllers **required** 
+- At least one table view  **required** 
+- Search (optional) 
 - At least one custom table view cell **required**  
 - POST request (optional) 
 - Unit Test (optional) 
