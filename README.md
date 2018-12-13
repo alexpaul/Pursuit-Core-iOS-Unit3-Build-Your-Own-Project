@@ -11,8 +11,8 @@ Your first chance to build your own iOS project
 
 ## Requirements 
 
-- Project should make at least on GET request to an API of your chosing
-- Should have at least 2 view controllers
+- Project should make at least one GET request to your choosen API
+- App should have at least 2 view controllers
 
 
 ## API Resources 
