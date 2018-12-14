@@ -7,8 +7,9 @@ Your first chance to build your own iOS project
 - Push regularly to Github 
 - When you have an MVP and are ready to submit
 - Fork this repo
-- Make a pull repuest against this repo and paste the link of your fork in the commnets section
-- Submit the link to your fork on Canvas 
+- Edit the "Fellow List" of this README and paste your Github repo link into your name link
+- Make a pull repuest against this repo and give a useful title e.g "Aaron completed holiday project"
+- Submit your Github repo link to Canvas 
 
 ## Requirements 
 
