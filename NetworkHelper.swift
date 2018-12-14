@@ -22,6 +22,7 @@ final class NetworkHelper {
           }
           return
         }
+        completionHandler(nil, nil)
       }
       if let data = data {
         completionHandler(nil, data)
