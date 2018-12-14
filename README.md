@@ -25,7 +25,6 @@ Own and build your own iOS app.
 | At least one custom table view cell | Yes | 
 | POST request | Optional | 
 | Unit Test | Optional | 
-| Only use NetworkHelper if making multiple requests | Yes |
 
 
 ## API Resources 
