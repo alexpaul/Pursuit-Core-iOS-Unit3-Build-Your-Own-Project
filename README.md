@@ -9,7 +9,7 @@ Own and build your own iOS app.
 - Fork this repo
 - Edit the "Fellow Submission List" of this README and paste your Github repo link
   into your name link e.g ```[Aaron](paste link here)```   
-- Make a pull repuest against this repo and give a useful title e.g "Aaron completed holiday project"
+- Make a pull repuest against this repo and give it a related title e.g "Aaron Cats iOS app"
 - Submit your Github repo link to Canvas 
 
 ## Requirements 
