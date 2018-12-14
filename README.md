@@ -30,5 +30,45 @@ Your first chance to build your own iOS project
 
 [ToddMotto](https://github.com/toddmotto/public-apis)  
 
-## Inspiration Corner 
+## Fellow Projects 
+
+**Fellow List**   
+<details> 
+  <summary>Fellow Submission List</summary> 
+  
+Aaron
+Alfredo
+Alyson
+Antonio
+Ashli
+Biron
+Diego
+Elizabeth
+Genesis
+Ian
+Ibraheem
+Jabeen
+Jane
+Jason
+Jeffrey
+Jevon
+Jian
+Jose
+Joshua
+Kathy
+Kevin
+Leandro
+Manolova
+Matthew
+Nathalie
+Olimpia
+Oniel
+Pritesh
+Ramu
+Raymond
+Stephanie
+Tingxin
+Yaz
+  
+</details> 
 
