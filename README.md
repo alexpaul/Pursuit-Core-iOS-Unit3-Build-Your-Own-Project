@@ -36,6 +36,11 @@ Own and build your own iOS app.
 
 [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)  
 
+## Inspiration Corner 
+
+[How do I build a mobile app from scratch in 10–15 days?](https://www.quora.com/How-do-I-build-a-mobile-app-from-scratch-in-10%E2%80%9315-days-An-iOS-app-is-the-first-priority-followed-by-an-Android-platform-app)  
+[From Idea to App Store](https://uxdesign.cc/from-idea-to-app-store-building-my-first-ios-app-with-react-native-c64f1ed76fca)    
+
 ## Fellow Projects 
 
 **Fellow List**   
