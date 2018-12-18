@@ -8,7 +8,7 @@ Own and build your own iOS app.
 - When you have an MVP and are ready to submit
 - Fork this repo
 - Edit the "Fellow Submission List" of this README and paste your Github repo link
-  into your name link e.g ```[Aaron](paste link here)```   
+  into your name link e.g ```[Aaron](paste github repo link here)```   
 - Make a pull repuest against this repo and give it a related title e.g "Aaron Cats iOS app"
 - Submit your Github repo link to Canvas 
 
