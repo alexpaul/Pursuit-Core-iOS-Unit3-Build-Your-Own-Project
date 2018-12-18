@@ -31,6 +31,10 @@ Own and build your own iOS app.
 
 [ToddMotto](https://github.com/toddmotto/public-apis)  
 
+## Apple Resources 
+
+[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)  
+
 ## Fellow Projects 
 
 **Fellow List**   
